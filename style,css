@@ -119,7 +119,7 @@ h2 {
 .formulario button {
     background-color: #CB6D43;
     border: none;
-    font-weight: bold0;
+    font-weight: bold;
 }
 /*chama a classe do bootstrap para modificar a cor*/
 .form-control{
